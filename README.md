@@ -2,4 +2,4 @@
 Tiny Rust Project from the book.
 
 
-cargo run How poem.txt > log.txt  
+`cargo run How poem.txt > log.txt`
